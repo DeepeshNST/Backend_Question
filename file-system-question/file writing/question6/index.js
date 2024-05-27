@@ -1,4 +1,4 @@
-// Rahul and his friend are working on an essay in the city and need to write 300 words.
+// Rahul and his friend are working on an essay in some topic and need to write 300 words.
 // Rahul, being a technical guy, wants to use a fancy way to write the essay to a text file using Node.js's file system module. 
 // However, there is another loop in the code that runs before the essay is written. 
 // Correct the error in Rahul's code so that the loop runs after the essay is written to the file.
