@@ -33,4 +33,3 @@ fs.readFile("newton.txt", "utf8", (err, data) => {
 
 //     console.log(data)
 // })
-
