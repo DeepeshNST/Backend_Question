@@ -1,0 +1,6 @@
+Congratulations! You've successfully mastered the essentials of managing paths in Node.js.
+
+
+
+
+
